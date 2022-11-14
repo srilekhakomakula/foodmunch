@@ -1,0 +1,199 @@
+
+/* navigation */
+.container-fluid {
+    height: 90vh;
+    background-image: url(images/foodmunch-banner-bg.png);
+    background-size: cover;
+    height: 100vh;
+}
+.navbar{
+    margin: 0px 0px 1px 0px
+
+}
+.nav-item{
+    padding: 0 15px;
+    
+}
+.nav-link{
+    font-size: 1.2rem;
+}
+
+.brand-image{
+    height: 60px;
+    width: 60px;
+    margin-left: 200px;
+    margin-bottom: 20px;
+
+    
+}
+.navbar-line{
+    margin-left: 500px;
+}
+
+.download{
+    text-align: center;
+    position: relative;
+    top: 280px;
+    padding: 0 20px 0 0;
+ 
+}
+.head1{
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 250px;
+    
+}
+.matters{
+    text-align: center;
+    height: 350px;
+    background-color: #fff;
+    width: 100%;
+    font-family:Alfa Slab One;
+    padding: 100px 300px 0px 300px;
+    font-weight: 800;
+}
+
+@media(max-width:1028px)
+    {
+       .download{
+            position: static;
+        }
+        .matters{
+        position: static;
+        padding: 30px 0 0 60px;
+        text-align: center;
+        height: auto;
+        margin: 20px 0 30px 0;
+    }
+    
+    
+}
+* features */
+
+    .paragraph{
+        font-size: 0.8rem;
+            }
+    #features{
+       margin:20px 150px 80px 150px
+    }
+
+
+
+    
+/* explre menu */
+.items{
+    height: 250px;
+    width: 300px;
+}
+.box{
+    box-sizing:border-box;
+    padding:60px 30px 20px 30px;
+}
+.head{
+    text-align: center;
+    font-family:Alfa Slab One;
+    }
+    .view{
+        color: #d0b200;;
+    }
+    
+
+    /* healthy plate */
+    .food_health{
+        text-align: center;
+        background-color: #f9fbfe;
+        height: 90vh;
+        width: 100%;
+        margin: 30px 20px 100px 20px;
+    }
+    .food_plate{
+        font-family:Alfa Slab One; 
+    }
+    .passage{
+        margin: 2% 20%
+        
+       
+    }
+    /* delivery & payment */
+   
+    .delivery_image{
+        height: 300px;
+        width: 300px;
+        
+    }
+    .payment{
+        text-align: center;
+    }
+    .payment_heading{
+        font-family: Alfa Slab One;
+    }
+    .passage2{
+        margin:2% 18%;
+    }
+    .icon{text-align: center;
+        margin-top: 20px;
+        color: #212529;;
+
+       }
+       /* greetings */
+      
+       
+       .final_heading{
+        font-family: Alfa Slab One;
+        margin-left: 100px;
+        margin-top: 150px;
+       }
+       .f_paragraph{
+        margin-left: 100px;
+        margin-top: 10px;
+       }
+       .final{margin-left: 100px;
+        margin-top: 10px;
+    }
+    .gift{
+        height: 200px;
+        width: 200px;
+        margin: 150px 50px 20px 50px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
